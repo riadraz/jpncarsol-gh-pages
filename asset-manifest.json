@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/jpncarsol-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/jpncarsol-gh-pages/static/js/main.42d501c2.js",
+    "main.js": "/jpncarsol-gh-pages/static/js/main.db55c90f.js",
     "static/js/787.f4ace75a.chunk.js": "/jpncarsol-gh-pages/static/js/787.f4ace75a.chunk.js",
     "static/media/logo.svg": "/jpncarsol-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jpncarsol-gh-pages/index.html",
     "main.073c9b0a.css.map": "/jpncarsol-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.42d501c2.js.map": "/jpncarsol-gh-pages/static/js/main.42d501c2.js.map",
+    "main.db55c90f.js.map": "/jpncarsol-gh-pages/static/js/main.db55c90f.js.map",
     "787.f4ace75a.chunk.js.map": "/jpncarsol-gh-pages/static/js/787.f4ace75a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.42d501c2.js"
+    "static/js/main.db55c90f.js"
   ]
 }
