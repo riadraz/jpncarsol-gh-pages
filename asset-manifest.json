@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jpncarsol-gh-pages/static/css/main.4c4079aa.css",
+    "main.js": "/jpncarsol-gh-pages/static/js/main.75cf5367.js",
+    "static/js/787.f4ace75a.chunk.js": "/jpncarsol-gh-pages/static/js/787.f4ace75a.chunk.js",
+    "index.html": "/jpncarsol-gh-pages/index.html",
+    "main.4c4079aa.css.map": "/jpncarsol-gh-pages/static/css/main.4c4079aa.css.map",
+    "main.75cf5367.js.map": "/jpncarsol-gh-pages/static/js/main.75cf5367.js.map",
+    "787.f4ace75a.chunk.js.map": "/jpncarsol-gh-pages/static/js/787.f4ace75a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c4079aa.css",
+    "static/js/main.75cf5367.js"
+  ]
+}
